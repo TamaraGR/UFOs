@@ -1,3 +1,8 @@
+// [] this is an array
+//{} this is a dictionary 
+// aaaa: "bbb" is key and value 
+
+
 var data = [
   {
     datetime: "1/1/2010",
